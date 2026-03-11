@@ -1,0 +1,1 @@
+{"name":"live-cost-demo","version":"1.0.0","description":"A simple Node.js app for a live AI cost demonstration.","main":"index.js","scripts":{"start":"node index.js","test":"echo \"Error: no test specified\" && exit 1"},"dependencies":{"express":"^4.18.2"},"author":"Tyson Foods","license":"ISC"}
