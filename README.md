@@ -10,7 +10,7 @@ Follow these steps when instructed by the presenter.
 
 - **Clone this repository** to your local machine.
   ```bash
-  git clone https://gitlab.com/tyson-foods/2211-gitlab-saas/demo/live-demo-app.git
+  git clone https://github.com/tyson-foods/live-demo-app.git
   cd live-demo-app
   ```
 - **Open the `live-demo-app` folder** in your code editor (e.g., VS Code).
